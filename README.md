@@ -1,3 +1,5 @@
+![GitHub Profile banner](https://user-images.githubusercontent.com/72375327/227661109-90b19b23-f15a-42d3-98f7-c1ee5b7cfda5.png)
+
 - 👋 Hi, I’m @anwarrahim
 - 👀 I’m interested in Data Science and Data Analytics
 - 🌱 I’m currently working on Machine learning
