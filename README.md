@@ -1,5 +1,9 @@
-![GitHub Profile banner](https://user-images.githubusercontent.com/72375327/227661109-90b19b23-f15a-42d3-98f7-c1ee5b7cfda5.png)
 
+<p align=”center”>
+
+<img width=”200" height=”200" src=”https://user-images.githubusercontent.com/72375327/227661109-90b19b23-f15a-42d3-98f7-c1ee5b7cfda5.png" alt=”my banner”>
+
+</p>
 - 👋 Hi, I’m @anwarrahim
 - 👀 I’m interested in Data Science and Data Analytics
 - 🌱 I’m currently working on Machine learning
