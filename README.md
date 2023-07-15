@@ -15,7 +15,7 @@ I'm a Data Scientist <g-emoji class="g-emoji" alias="computer" fallback-src="htt
 
 <p dir="auto"><a href="https://www.linkedin.com/in/anwarrahim/" rel="nofollow"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px" style="max-width: 100%;"></a>
 <a href="https://instagram.com/itsanwarrahim" rel="nofollow"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px" style="max-width: 100%;"></a>
-<a href="https://medium.com/@itsanwarrahim" rel="nofollow"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px" style="max-width: 100%;"></a>
+<a href="https://medium.com/@anwar_rahim" rel="nofollow"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px" style="max-width: 100%;"></a>
 <br></p>
 
 <ul dir="auto">
