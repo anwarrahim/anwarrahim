@@ -77,4 +77,4 @@ I'm a Full Stack Engineer <g-emoji class="g-emoji" alias="computer" fallback-src
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anwarrahim&layout=compact&theme=gruvbox_light)](https://github.com/anwarrahim)
 
- <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="anwarrahim" data-description="Support me on Buy me a coffee!" data-message="Thanks for visiting, you can buy me a coffee" data-color="#5F7FFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script>                                                                                                                                    
+ <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="anwarrahim" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>                                                                                                                                    
