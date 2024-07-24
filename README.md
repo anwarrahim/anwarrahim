@@ -69,7 +69,7 @@ I'm a Software Engineer <g-emoji class="g-emoji" alias="computer" fallback-src="
 
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sadiqquadri&theme=dark" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=anwarrahim&theme=dark" alt="GitHub Streak" /></a>
 </div>
 
   
