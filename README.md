@@ -43,9 +43,7 @@ I'm a Software Engineer <g-emoji class="g-emoji" alias="computer" fallback-src="
   <a target="_blank" rel="noopener noreferrer nofollow" href="#"><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="#"><img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="#"><img src="https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="#"><img src="https://img.shields.io/badge/azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="#"><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="#"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="max-width: 100%;"></a>
+  
   <a target="_blank" rel="noopener noreferrer nofollow" href="#"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="#"><img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="#"><img src="https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" style="max-width: 100%;"></a>
