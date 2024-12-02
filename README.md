@@ -70,7 +70,7 @@ I'm a Software Engineer <g-emoji class="g-emoji" alias="computer" fallback-src="
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.credly.com/users/anwarrahim/badges"><img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" alt="Postgres" data-canonical-src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" style="max-width: 100%;"></a> 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.codecademy.com/profiles/anwarrahim"><img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A" alt="HTML5" data-canonical-src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://scrimba.com/anwarrahim">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://scrimba.com/@anwarrahim">
   <img src="https://img.shields.io/badge/Scrimba-black?style=for-the-badge&logo=Scrimba&logoColor=white" alt="Scrimba" style="max-width: 100%;">
 </a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://app.datacamp.com/profile/anwarrahim"><img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860" alt="Postgres" data-canonical-src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860" style="max-width: 100%;"></a>
