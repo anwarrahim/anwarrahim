@@ -74,7 +74,10 @@ I'm a Software Engineer <g-emoji class="g-emoji" alias="computer" fallback-src="
   <img src="https://img.shields.io/badge/Scrimba-black?style=for-the-badge&logo=Scrimba&logoColor=white" alt="Scrimba" style="max-width: 100%;">
 </a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://app.datacamp.com/profile/anwarrahim"><img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860" alt="Postgres" data-canonical-src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://learn.microsoft.com/en-us/users/anwarrahim/"><img src="https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white" alt="Postgres" data-canonical-src="https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white" style="max-width: 100%;"></a> 
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://learn.microsoft.com/en-us/users/anwarrahim/"><img src="https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white" alt="Postgres" data-canonical-src="https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.credly.com/users/anwarrahim/badges">
+  <img src="https://img.shields.io/badge/Credly-FFA500?style=for-the-badge&logo=C&logoColor=white" alt="Credly" style="max-width: 100%;">
+</a> 
   </p>
 
   <h3 align="center">🔥 My Stats :</h3>
