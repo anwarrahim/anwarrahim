@@ -27,7 +27,7 @@ I'm a Software Engineer <g-emoji class="g-emoji" alias="computer" fallback-src="
 
 <ul dir="auto">
 <li>🔥 Portfolio Website</li>
-<li>🔥 Todo list chromium Extension </li>\
+<li>🔥 Todo list chromium Extension </li>
 </ul>
 
 
